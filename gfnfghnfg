@@ -1,0 +1,7 @@
+echo "# dsnklfd" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M sudabing
+git remote add origin https://github.com/sudabing2045/dsnklfd.git
+git push -u origin sudabing
